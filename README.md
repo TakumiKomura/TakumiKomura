@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @TakumiKomura
 - ✒ I'm still a student of university.
 - 👀 I’m interested in SE.
-- 🌱 I’m currently learning progmaming by using C and I'm creating VR animation by using VRML.
+- 🌱 I’m currently learning progmaming by using C++ and Python.
+- 📚 I'm working on Web Scraping.
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ... takumi141219@outlook.jp
 
